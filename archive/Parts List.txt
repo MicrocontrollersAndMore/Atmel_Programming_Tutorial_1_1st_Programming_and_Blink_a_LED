@@ -1,0 +1,27 @@
+Atmel Programming Tutoiral 1 Parts List
+
+Atmel Progrmmer
+the Atmel-ICE-Basic Kit is used in the video and recommended
+http://www.atmel.com/tools/atatmel-ice.aspx
+http://www.digikey.com/product-search/en?KeyWords=ATATMEL-ICE-BASIC&WT.z_header=search_go
+
+Alternatively, the Atmel AVRISP MKII was the standard Atmel programmer for years until recently
+If you have or can get an MKII that would most likely still work with only minor modifications to the video
+MKII clones are still available, ex:
+http://www.amazon.com/gp/product/B00KM6ZA9I?keywords=atmel%20mkii&qid=1444426844&ref_=sr_1_1&sr=8-1
+
+Atmel ATmega328P
+http://www.digikey.com/product-detail/en/ATMEGA328P-PU/ATMEGA328P-PU-ND/1914589
+http://www.atmel.com/devices/atmega328p.aspx
+
+The "P" is short for Pico Power
+Note that there is usually a 2nd suffix after the "P", i.e. ATmega328P-PU
+The 2nd suffix denotes further information such as extreme temperature tolerance or package type, see the Atmel link above for a full list
+Get a PDIP (Plastic Dual Inline Package) package type, other package types will require surface mount soldering
+
+The ATmega328P-PU is the specific chip type used in the video
+
+breadboard, wires, multimeter, other typical electronic assembly tools and items, available from various retailers, ex:
+http://www.elexp.com
+http://www.amazon.com
+https://www.sparkfun.com
